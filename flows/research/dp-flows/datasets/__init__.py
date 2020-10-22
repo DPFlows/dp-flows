@@ -1,0 +1,1 @@
+from . import lifesci #adult, bsds300, boston, california, checkerboard, circles, conditionalmnist, credit, gas, gaussian, gowalla, hepmass, ionosphere, lifesci, mimic, mnist, miniboone, moons, olivetti, parkinsons, pinwheel, power, redwine, road, spam, tamilnadu, whitewine
